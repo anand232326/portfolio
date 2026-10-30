@@ -115,24 +115,24 @@ export const experience = [
 
 export const projects = [
   {
-    name: "Apna Cashbook",
-    eyebrow: "Expense Tracker",
+    name: "",
+    eyebrow: "",
     description:
-      "A mobile app for tracking personal expenses and income, with a focus on simplicity and ease of use.",
+      "",
     url: "",
     github_url: "",
-    logo: apneCashbookLogo,
-    tags: ["Flutter", "Dart", "Android Development"]
+    logo: '',
+    tags: [""]
   },
   {
-    name: "Sound Controller",
-    eyebrow: "Sound Controller",
+    name: "",
+    eyebrow: "",
     description:
-      "A mobile app for controlling the sound of a device, with a focus on simplicity and ease of use.",
+      "",
     url: "",
     github_url: "",
-    logo: soundControllerLogo,
-    tags: ["Flutter", "Dart", "Android Development"]
+    logo: '',
+    tags: [""]
   },
   {
     name: "Desi_Diet",
