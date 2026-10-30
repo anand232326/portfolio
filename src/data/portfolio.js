@@ -119,8 +119,8 @@ export const projects = [
     eyebrow: "Expense Tracker",
     description:
       "A mobile app for tracking personal expenses and income, with a focus on simplicity and ease of use.",
-    url: "https://drive.google.com/file/d/1DwIq9AsFXDDP5uNQMMwr8w9mSLSmXNLq/view?usp=drive_link",
-    github_url: "https://github.com/rajharsh18/expense_tracker",
+    url: "",
+    github_url: "",
     logo: apneCashbookLogo,
     tags: ["Flutter", "Dart", "Android Development"]
   },
