@@ -14,7 +14,7 @@ export const profile = {
   email: "anandku2602@gmail.com",
   phone: "+91 8808253143",
   resume:
-    ""
+    "https://drive.google.com/file/d/1NXuj31emBGHnLg7BuzHu-TSN4oJfF--K/view?usp=sharing"
 };
 
 export const navigation = [
@@ -115,22 +115,22 @@ export const experience = [
 
 export const projects = [
   {
-    name: "",
+    name: "Financial Intelligence RAG Architecture",
     eyebrow: "",
     description:
       "",
     url: "",
-    github_url: "",
+    github_url: "https://github.com/anand232326/RAG",
     logo: '',
     tags: [""]
   },
   {
-    name: "",
+    name: "MediGraph",
     eyebrow: "",
     description:
-      "",
+      "MediGraph is a React + Vite disease knowledge graph explorer. It lets users search diseases, view disease-linked genes, pathways, drugs, and publications, and compare two diseases side by side in an interactive graph.",
     url: "",
-    github_url: "",
+    github_url: "https://github.com/anand232326/medigraph",
     logo: '',
     tags: [""]
   },
@@ -140,7 +140,7 @@ export const projects = [
     description:
       "",
     url: "",
-    github_url: "",
+    github_url: "https://github.com/anand232326/LittiHub",
     logo: '',
     tags: ["Product", "Web", "Startup"]
   },
